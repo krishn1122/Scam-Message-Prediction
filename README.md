@@ -161,9 +161,3 @@ The Llama-3.2-1B-Instruct model is licensed under the [Meta Llama 3.2 Community 
 - Meta for releasing the Llama-3.2-1B-Instruct model
 - Hugging Face for the Transformers library
 - Streamlit for the web interface framework
-
-## 📧 Contact
-
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - your.email@example.com
-
-Project Link: [https://github.com/yourusername/scam-message-predictor](https://github.com/yourusername/scam-message-predictor)
