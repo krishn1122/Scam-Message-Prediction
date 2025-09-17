@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![License](https://img.shields.io/badge/License-MIT-green) ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)
 
 An advanced scam message detection system powered by Meta's Llama-3.2-1B-Instruct model. This application analyzes text messages, emails, and conversations to identify potential fraud with detailed reasoning and fraud probability percentages.
-
+![Dashboard Interface](https://image2url.com/images/1758106448760-e29256bf-9b12-43d4-8468-454c491ae96c.png)
 ## 🚀 Features
 
 - **AI-Powered Fraud Detection**: Utilizes Llama-3.2-1B-Instruct for accurate scam detection
